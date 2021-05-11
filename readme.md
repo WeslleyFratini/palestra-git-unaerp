@@ -1,5 +1,4 @@
-# Projeto para boas práticas de git e GitHub da palestra
-
+# Projeto para boas práticas de git e GitHub
 - Desenvolvimento das telas:
 
 <br>
